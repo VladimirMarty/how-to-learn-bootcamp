@@ -72,8 +72,6 @@
             position: relative;
             justify-content: center;
             height: 332px;
-            /* посчитал размеры каждого блока в браузере и прибавил 
-            60px. По 30px с каждого отступа */
         }
         
         .two-columns {
