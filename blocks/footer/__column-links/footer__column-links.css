@@ -8,4 +8,5 @@
     font-weight: normal;
     display: flex;
     flex-direction: column;
+    list-style-type: none;
 }
