@@ -1,10 +1,9 @@
 .video {
-    margin-top: 50px;
     display: flex;
     min-height: 600px;
     max-height: 756px;
     align-items: center;
     flex-direction: column;
     position: relative;
-    top: 50px;
+    top: 100px;
 }
