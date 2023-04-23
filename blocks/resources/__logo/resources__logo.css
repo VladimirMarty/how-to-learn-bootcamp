@@ -4,3 +4,7 @@
     display: flex;
     justify-content: space-around;
 }
+
+.resources__logo:hover {
+    opacity: 0.3;
+}
