@@ -6,6 +6,7 @@
     top: 50%;
     color: #2f80ed;
     text-decoration: none;
+    z-index: 2;
 }
 
 .feynman__link:hover {
